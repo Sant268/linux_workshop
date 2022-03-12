@@ -101,3 +101,5 @@ Redirect using > and append using >>
 `wc`
 `less`
 
+36. crontab
+37. dos2unix / unix2dos
